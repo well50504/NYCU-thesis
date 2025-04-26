@@ -1,0 +1,37 @@
+Counts and Details in Final Subset:
+COH: 3 features
+   FC Type: COH, Band: gamma, Electrodes: F7 - Fz
+   FC Type: COH, Band: delta, Electrodes: Cp3 - F4
+   FC Type: COH, Band: gamma, Electrodes: F3 - Fz
+PLI: 17 features
+   FC Type: PLI, Band: gamma, Electrodes: Fcz - Cp4
+   FC Type: PLI, Band: delta, Electrodes: F7 - Cp4
+   FC Type: PLI, Band: delta, Electrodes: T3 - C4
+   FC Type: PLI, Band: delta, Electrodes: T5 - T4
+   FC Type: PLI, Band: delta, Electrodes: Fcz - Tp7
+   FC Type: PLI, Band: delta, Electrodes: O1 - T6
+   FC Type: PLI, Band: delta, Electrodes: T3 - Fcz
+   FC Type: PLI, Band: delta, Electrodes: Fc3 - Cp4
+   FC Type: PLI, Band: gamma, Electrodes: Cp3 - Fcz
+   FC Type: PLI, Band: delta, Electrodes: Cp3 - T6
+   FC Type: PLI, Band: delta, Electrodes: T5 - Tp8
+   FC Type: PLI, Band: delta, Electrodes: Fcz - Cp4
+   FC Type: PLI, Band: gamma, Electrodes: P3 - O2
+   FC Type: PLI, Band: betahigh, Electrodes: Fc3 - Fcz
+   FC Type: PLI, Band: delta, Electrodes: T3 - T6
+   FC Type: PLI, Band: delta, Electrodes: Fcz - O2
+   FC Type: PLI, Band: gamma, Electrodes: Fcz - P4
+STE: 13 features
+   FC Type: STE, Band: gamma, Direction: Tp7 -> Fz
+   FC Type: STE, Band: gamma, Direction: Fz -> Fc4
+   FC Type: STE, Band: gamma, Direction: Fz -> F7
+   FC Type: STE, Band: alpha, Direction: F7 -> Fz
+   FC Type: STE, Band: gamma, Direction: C4 -> Fz
+   FC Type: STE, Band: gamma, Direction: Fz -> Fp1
+   FC Type: STE, Band: delta, Direction: T5 -> Cp3
+   FC Type: STE, Band: delta, Direction: Fcz -> O1
+   FC Type: STE, Band: betahigh, Direction: Fz -> F3
+   FC Type: STE, Band: betalow, Direction: F3 -> Fz
+   FC Type: STE, Band: theta, Direction: T5 -> Cp3
+   FC Type: STE, Band: gamma, Direction: Fz -> F3
+   FC Type: STE, Band: alpha, Direction: F3 -> Fz

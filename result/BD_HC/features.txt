@@ -1,0 +1,12 @@
+Counts and Details in Final Subset:
+COH: 1 features
+   FC Type: COH, Band: theta, Electrodes: F7 - F8
+PLI: 7 features
+   FC Type: PLI, Band: betahigh, Electrodes: Fcz - F4
+   FC Type: PLI, Band: gamma, Electrodes: Cp3 - Fc3
+   FC Type: PLI, Band: betalow, Electrodes: Cpz - P4
+   FC Type: PLI, Band: gamma, Electrodes: Fcz - O2
+   FC Type: PLI, Band: betahigh, Electrodes: O1 - Cp3
+   FC Type: PLI, Band: gamma, Electrodes: F7 - Fcz
+   FC Type: PLI, Band: betahigh, Electrodes: Tp8 - T4
+STE: 0 features

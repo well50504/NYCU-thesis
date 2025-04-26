@@ -1,0 +1,52 @@
+Counts and Details in Final Subset:
+COH: 7 features
+   FC Type: COH, Band: betalow, Electrodes: F3 - Fz
+   FC Type: COH, Band: delta, Electrodes: Cp3 - Fp1
+   FC Type: COH, Band: delta, Electrodes: Cp3 - Fp2
+   FC Type: COH, Band: betahigh, Electrodes: F3 - Fz
+   FC Type: COH, Band: alpha, Electrodes: F3 - Fz
+   FC Type: COH, Band: betalow, Electrodes: Fz - Fp2
+   FC Type: COH, Band: betalow, Electrodes: Fp1 - Fz
+PLI: 12 features
+   FC Type: PLI, Band: theta, Electrodes: Fp1 - T4
+   FC Type: PLI, Band: delta, Electrodes: T3 - F3
+   FC Type: PLI, Band: delta, Electrodes: T5 - T4
+   FC Type: PLI, Band: delta, Electrodes: T5 - Fc4
+   FC Type: PLI, Band: betalow, Electrodes: T3 - C4
+   FC Type: PLI, Band: delta, Electrodes: Ft8 - T4
+   FC Type: PLI, Band: delta, Electrodes: Fc3 - Tp7
+   FC Type: PLI, Band: delta, Electrodes: Tp7 - Fc4
+   FC Type: PLI, Band: delta, Electrodes: Cp3 - C4
+   FC Type: PLI, Band: delta, Electrodes: Cpz - Tp8
+   FC Type: PLI, Band: delta, Electrodes: C3 - T6
+   FC Type: PLI, Band: delta, Electrodes: T5 - Fc3
+STE: 29 features
+   FC Type: STE, Band: betalow, Direction: Fp2 -> Fz
+   FC Type: STE, Band: alpha, Direction: F3 -> Fz
+   FC Type: STE, Band: betalow, Direction: F3 -> Fz
+   FC Type: STE, Band: betalow, Direction: Cp3 -> C3
+   FC Type: STE, Band: gamma, Direction: F3 -> Fz
+   FC Type: STE, Band: gamma, Direction: Fp2 -> Fz
+   FC Type: STE, Band: betalow, Direction: O2 -> P4
+   FC Type: STE, Band: alpha, Direction: Fp2 -> Fz
+   FC Type: STE, Band: betahigh, Direction: Fp2 -> Fz
+   FC Type: STE, Band: gamma, Direction: Fz -> F4
+   FC Type: STE, Band: betalow, Direction: O2 -> Oz
+   FC Type: STE, Band: gamma, Direction: Fz -> F3
+   FC Type: STE, Band: alpha, Direction: Fz -> Fcz
+   FC Type: STE, Band: gamma, Direction: F4 -> Fz
+   FC Type: STE, Band: betalow, Direction: Fp1 -> Fz
+   FC Type: STE, Band: betalow, Direction: Fz -> F3
+   FC Type: STE, Band: betalow, Direction: Fz -> Fcz
+   FC Type: STE, Band: betahigh, Direction: F3 -> Fz
+   FC Type: STE, Band: betalow, Direction: Fp2 -> F4
+   FC Type: STE, Band: betahigh, Direction: O2 -> P4
+   FC Type: STE, Band: gamma, Direction: Cp4 -> Oz
+   FC Type: STE, Band: alpha, Direction: Fz -> F3
+   FC Type: STE, Band: betalow, Direction: P4 -> Cp4
+   FC Type: STE, Band: alpha, Direction: O2 -> P4
+   FC Type: STE, Band: betalow, Direction: Cp4 -> P4
+   FC Type: STE, Band: betalow, Direction: Cp4 -> C4
+   FC Type: STE, Band: betalow, Direction: Fcz -> Fz
+   FC Type: STE, Band: gamma, Direction: P4 -> Cp4
+   FC Type: STE, Band: betalow, Direction: F3 -> Fc3
