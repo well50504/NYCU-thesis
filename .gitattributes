@@ -3,3 +3,4 @@
 *.pkl filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
 *.pt filter=lfs diff=lfs merge=lfs -text
+src_FA/graph_theory.ipynb filter=lfs diff=lfs merge=lfs -text
